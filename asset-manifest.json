@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repo_homework/static/css/main.7f8337a3.css",
-    "main.js": "/repo_homework/static/js/main.0052514e.js",
+    "main.css": "/repo_homework/static/css/main.f5b57ae2.css",
+    "main.js": "/repo_homework/static/js/main.7397a174.js",
     "static/js/787.66cb4309.chunk.js": "/repo_homework/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/repo_homework/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/repo_homework/index.html",
-    "main.7f8337a3.css.map": "/repo_homework/static/css/main.7f8337a3.css.map",
-    "main.0052514e.js.map": "/repo_homework/static/js/main.0052514e.js.map",
+    "main.f5b57ae2.css.map": "/repo_homework/static/css/main.f5b57ae2.css.map",
+    "main.7397a174.js.map": "/repo_homework/static/js/main.7397a174.js.map",
     "787.66cb4309.chunk.js.map": "/repo_homework/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f8337a3.css",
-    "static/js/main.0052514e.js"
+    "static/css/main.f5b57ae2.css",
+    "static/js/main.7397a174.js"
   ]
 }
