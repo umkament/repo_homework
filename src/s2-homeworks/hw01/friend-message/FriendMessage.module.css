@@ -1,5 +1,8 @@
 .friendMessage {
+    display: flex;
+    align-items: flex-end;
 
+    margin: 10px;
 }
 
 .friendImageAndText {
@@ -24,7 +27,8 @@ width: 60px;
 }
 
 .friendMessageText {
-
+    border-radius: 10px 10px 8px 8px;
+    background-color: cadetblue;
 }
 
 .friendTime {
