@@ -1,5 +1,8 @@
 .message {
+    display: flex;
+align-items: flex-end;
 
+    margin: 10px;
 }
 
 .imageAndText {
@@ -24,7 +27,8 @@
 }
 
 .messageText {
-
+border-radius: 10px 10px 8px 8px;
+    background-color: cadetblue;
 }
 
 .time {
