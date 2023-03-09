@@ -1,7 +1,11 @@
 .burgerMenuIcon {
+
 }
 
 .header {
+    width: auto;
+    height: 100px;
+    right: 40px;
 }
 
 .header h1 {
