@@ -2,7 +2,15 @@
 }
 
 .wrapper {
+    width: 200px;
+    display: flex;
+    gap: 20px
 }
 
 .number {
+    font-family: "American Typewriter";
+    font-style: normal;
+    font-weight: 550;
+    font-size: 18px;
+    line-height: 30px;
 }
