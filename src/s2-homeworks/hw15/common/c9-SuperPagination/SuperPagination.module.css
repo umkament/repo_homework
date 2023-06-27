@@ -1,20 +1,28 @@
 .pagination {
     display: flex;
     align-items: center;
-    gap: 32px;
-    color: red;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    gap: 6px;
 }
 
 .text1 {
-    color: red;
+    margin-left: 20px;
+}
+
+.text1, .text2 {
+    font-size: 14px;
+    line-height: 16px;
+    color: #0D0B0C;
 }
 
 .text2 {
-    color: red;
+
+}
+
+.select {
+    margin: 0 10px;
+    max-width: 50px;
+    height: 24px;
+    background: #FFFFFF;
+    border: 1px solid #ECEBEB;
+    border-radius: 2px;
+    text-align: center;
 }
